@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Raju</h1>
-<h3 align="center">A passionate backend developer and Machine Learning Enthusiast from NIT Kurukshetra</h3>
+<h3 align="center">A passionate Fullstack Developer and Machine Learning Enthusiast from NIT Kurukshetra</h3>
 
 - 📫 How to reach me **harshavardhanraju334@gmail.com**
 
